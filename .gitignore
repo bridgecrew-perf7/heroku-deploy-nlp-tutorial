@@ -1,4 +1,12 @@
-# Byte-compiled / optimized / DLL files
+#Mac OS
+.DS_Store
+
+#Training code
+train.py
+data/
+check.py
+
+#Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
